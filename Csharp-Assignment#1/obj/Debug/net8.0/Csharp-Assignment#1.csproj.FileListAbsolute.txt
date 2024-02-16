@@ -1,0 +1,14 @@
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\bin\Debug\net8.0\Csharp-Assignment#1.exe
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\bin\Debug\net8.0\Csharp-Assignment#1.deps.json
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\bin\Debug\net8.0\Csharp-Assignment#1.runtimeconfig.json
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\bin\Debug\net8.0\Csharp-Assignment#1.dll
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\bin\Debug\net8.0\Csharp-Assignment#1.pdb
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.AssemblyInfoInputs.cache
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.AssemblyInfo.cs
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.csproj.CoreCompileInputs.cache
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.dll
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\obj\Debug\net8.0\refint\Csharp-Assignment#1.dll
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.pdb
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.genruntimeconfig.cache
+C:\Users\andre\Anu\College\C#\week6\Csharp-Assignment#1\Csharp-Assignment#1\obj\Debug\net8.0\ref\Csharp-Assignment#1.dll
